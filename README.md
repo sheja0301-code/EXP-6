@@ -75,9 +75,9 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |3 |51.82|
+| 2 |6 |100.10 |
+| 3 |10 |152.86 |
 | 4 | | |
 | 5 | | |
 | 6 | | |
@@ -90,9 +90,9 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |-3 | 51.82|
+| 2 |-6|100.10|
+| 3 |-10 |152.86 |
 | 4 | | |
 | 5 | | |
 | 6 | | |
