@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 6 – CHARACTERISTICS OF LVDT
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |SHEJASHRI L J | **Reg. No.:** |26016939 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |25-11-2026 | **Batch / Section:** |26ODJ150 |
 
 ---
 
@@ -78,13 +78,6 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 | 1 |3 |51.82|
 | 2 |6 |100.10 |
 | 3 |10 |152.86 |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
 
 ### B. Negative displacement of core
 
@@ -93,13 +86,7 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 | 1 |-3 | 51.82|
 | 2 |-6|100.10|
 | 3 |-10 |152.86 |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+
 
 ## FORMULA
 
